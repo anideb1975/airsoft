@@ -1,0 +1,7 @@
+# pragma once
+#include <Arduino.h>
+
+// MAc address ricevitore EC:E3:34:14:9F:BC
+// 98:A3:16:F2:28:E8
+//uint8_t slaveAddress[] = {0xEC, 0xE3, 0x34, 0x14, 0x9F, 0xBC};
+uint8_t slaveAddress[] = {0x98, 0xA3, 0x16, 0xF2, 0x28, 0xE8};
